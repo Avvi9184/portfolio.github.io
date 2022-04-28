@@ -1,0 +1,65 @@
+
+@media  screen and (min-width:769px)and (max-width:1000px){
+.social-link{
+    top:35vh;
+}.service-container{
+ 
+
+  width:100%;
+  height: 50%;
+  margin: 0 auto;
+}
+.box{
+  padding: 0;
+  width: 30vw;
+    height:35vh;
+    display: block;
+    margin-right: 10px;
+}
+.box h3{
+  padding-top: 20px;
+}
+
+
+}
+@media  screen and (max-width:768px) {
+    *{
+      font-size: 10px;
+    }
+    header{
+      height: 7vh;
+    }
+    nav ul li{
+      display: none;
+    }
+    .social-link{
+      top: 35vh;
+      left: 90vw;
+    }
+    .block{
+      display: block;
+    }
+    #bars{
+      display: block;
+    }
+    .hello{
+      height: 20vh;}
+    ul{
+      position: absolute;
+      left: 50%;
+    }    .box{
+      padding: 0;
+      width: 30vw;
+        height:25vh;
+        display: block;
+        margin-right: 10px;
+    }
+    .box h3{
+      padding-top: 20px;
+    }
+
+    
+      
+    }
+
+
